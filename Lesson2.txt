@@ -1,0 +1,14 @@
+specular , normal
+
+shadow
+bake lighting
+optimize performnace
+
+quality settings
+
+xnalara
+devianart
+
+Recipe
+
+https://www.youtube.com/watch?v=J7EHSYKQ56U

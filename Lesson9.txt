@@ -1,0 +1,4 @@
+https://refactoring.guru/design-patterns/
+
+loosely couple\
+tightly couple

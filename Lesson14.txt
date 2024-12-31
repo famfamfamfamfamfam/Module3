@@ -1,0 +1,4 @@
+ui manager
+list hoac dictionary popup
+class popupbase
+ICollection<PopupBase>

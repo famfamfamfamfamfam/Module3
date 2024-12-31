@@ -1,0 +1,6 @@
+specular
+metallic
+diffuse
+
+reflection
+mesh or shader// shader giúp tạo hiệu ứng mà ko cần thêm tris,...

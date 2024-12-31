@@ -1,0 +1,13 @@
+
+tạo cảnh ngẫu nhiên:
+scriptable wizard
+editor script
+
+
+https://drive.google.com/file/d/1NodvFrlXR26u2-hE7sEuR-f9esw8aCO0/view?usp=sharing
+MapEditor
+HEditorUtils
+
+FindObjectOfType
+EditorUtility.SetDirty(roadConstructor);
+        MarkCurrentSceneDirty();

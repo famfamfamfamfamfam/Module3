@@ -1,0 +1,14 @@
+SIMPLE ANIMATION PROXY UNITY
+
+https://docs.unity3d.com/ScriptReference/Transform.TransformVector.html
+https://docs.unity3d.com/ScriptReference/Transform.InverseTransformPoint.html
+https://stackoverflow.com/questions/77632813/how-do-i-convert-world-direction-to-local-direction
+
+
+https://foxxthom.medium.com/game-manager-one-manager-to-rule-them-all-1c06afa72b23
+Game State
+
+https://gamedev.stackexchange.com/questions/13244/game-state-management-techniques
+https://discussions.unity.com/t/how-do-you-deal-with-game-states/757644
+
+behavior tree
